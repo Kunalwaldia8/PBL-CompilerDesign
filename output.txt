@@ -1,0 +1,41 @@
+Divyansh Dhaundiyal (cid:131) +91-7037937648
+Bachelor of Technology, Computer Science # divyanshdec@gmail.com
+Graphic Era Deemed to be University, Dehradun (cid:239) LinkedIn Profile
+Education
+• B.Tech in Computer Science and Engineering CGPA: 8.85/10
+Graphic Era Deemed to be University, Dehradun 2022 – Present
+• CBSE (XII) 87.3%
+Delhi Public School, Dehradun 2022
+• CBSE (X) 94.0%
+Delhi Public School, Dehradun 2020
+Projects
+• Airbnb Clone (LINK)
+Full-stack web application for property listing and booking.
+– Developed a full-stack property listing and reservation system handling over 50+
+bookings/month.
+– Integrated secure user authentication via Google, GitHub, and email, increasing sign-ups by
+35%.
+– Optimized database queries, reducing API response time by 30%, improving user experience.
+– Tech Stack Next.js, React, MongoDB, Tailwind CSS, Node.js.
+• Portfolio Website (LINK)
+A personal branding website showcasing projects and skills.
+– Built a fully responsive portfolio website with optimized SEO, boosting site traffic by 40%.
+– Designed an interactive contact form, leading to a 20% increase in recruiter engagement.
+– Tech Stack Next.js, React, Tailwind CSS, Aceternity UI.
+• Shopping Mart Management System (LINK)
+Graphical shopping management tool with automated billing.
+– Developed a shopping mart POS system used by 5+ retailers, reducing billing errors by 25%.
+– Integrated discount logic, saving customers an average of 100 per purchase.
+– Tech Stack Python, Tkinter.
+Technical Skills
+• Programming Languages: C, C++, Python, JavaScript, TypeScript.
+• Web Technologies: HTML5, CSS3, React.js, Tailwind CSS.
+• Backend: Node.js, Express.js, NextAuth.
+• Databases: MongoDB, MySQL.
+• DevOps Tools: Git, GitHub.
+• Concepts: Data Structures and Algorithms, Object-Oriented Programming.
+Extra-Curricular Activities
+• Event Coordination - Coordinated a Workshop on Graphic Design and UI with 5
+collaborating organizations, increasing attendance by 40%.
+• Community Engagement - Volunteered for "Dussehra Event", managing logistics for 200+
+attendees.

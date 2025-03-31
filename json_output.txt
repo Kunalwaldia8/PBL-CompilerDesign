@@ -1,0 +1,12 @@
+{
+    "Name": "Divyansh Dhaundiyal",
+    "Email": "divyanshdec@gmail.com",
+    "Phone": "+91-7037937648",
+    "Skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "React",
+        "Node.js"
+    ]
+}
