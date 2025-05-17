@@ -1,0 +1,31 @@
+{
+    "name": "Kunal Waldia",
+    "email": "kunalwaldia8@gmail.com",
+    "phone": "6396708033",
+    "skills": [
+        "sql",
+        "c++",
+        "git",
+        "css",
+        "expressjs",
+        "java",
+        "reactjs",
+        "html",
+        "github",
+        "bootstrap",
+        "tailwind css",
+        "data structures",
+        "mongodb",
+        "object-oriented programming",
+        "javascript",
+        "algorithms",
+        "nodejs",
+        "react"
+    ],
+    "github": "https://github.com/Kunalwaldia8",
+    "linkedin": null,
+    "education": [
+        "BE",
+        "BTECH"
+    ]
+}

@@ -1,0 +1,130 @@
+agile
+airflow
+android
+angular
+ansible
+api
+aws
+azure
+bash
+bdd
+bitbucket
+bootstrap
+burp suite
+c
+c#
+c++
+cassandra
+ci/cd
+circleci
+code review
+computer vision
+confluence
+cryptography
+css
+dask
+data analysis
+data structures
+data visualization
+debugging
+deep learning
+design patterns
+django
+docker
+elasticsearch
+electron
+etl
+express
+firebase
+firewall
+flask
+flutter
+functional programming
+gcp
+git
+github
+github actions
+gitlab ci
+go
+grafana
+graphql
+hadoop
+html
+huggingface
+ids
+integration testing
+ios
+ips
+java
+javascript
+jenkins
+jira
+jquery
+keras
+kotlin
+kubernetes
+linux
+machine learning
+mariadb
+matlab
+matplotlib
+metasploit
+microservices
+mongodb
+mysql
+natural language processing
+neo4j
+network security
+next.js
+nmap
+numpy
+nuxt.js
+object-oriented programming
+opencv
+oracle
+owasp
+pandas
+penetration testing
+perl
+php
+plotly
+postgresql
+power bi
+powershell
+prometheus
+python
+pytorch
+qt
+r
+react
+react native
+redis
+reinforcement learning
+rest
+ruby
+rust
+sass
+scala
+scikit-learn
+scrum
+seaborn
+spark
+spring boot
+sql
+sqlite
+svelte
+swift
+swiftui
+tableau
+tailwind css
+tdd
+tensorflow
+terraform
+transformers
+typescript
+unit testing
+version control
+vpn
+vue.js
+wireshark
+xgboost
