@@ -1,0 +1,226 @@
+[
+    {
+        "resume_name": "kunalResume.pdf",
+        "candidate_name": "Kunal Waldia",
+        "skills": [
+            "expressjs",
+            "sql",
+            "c++",
+            "java",
+            "mongodb",
+            "bootstrap",
+            "html",
+            "reactjs",
+            "tailwind css",
+            "css",
+            "github",
+            "algorithms",
+            "nodejs",
+            "object-oriented programming",
+            "react",
+            "git",
+            "data structures",
+            "javascript"
+        ],
+        "matching_skills": [
+            "html",
+            "css",
+            "react",
+            "git",
+            "javascript"
+        ],
+        "missing_skills": [
+            "version control",
+            "angular",
+            "agile"
+        ],
+        "skill_match_score": 55.55555555555556,
+        "semantic_score": 18.651177423824766,
+        "final_score": 37.10336648969016,
+        "resume_path": "data/resumes/kunalResume.pdf",
+        "contact": {
+            "email": "kunalwaldia8@gmail.com",
+            "phone": "6396708033",
+            "github": "https://github.com/Kunalwaldia8",
+            "linkedin": null
+        },
+        "education": [
+            "BE",
+            "BTECH"
+        ],
+        "rank": 1
+    },
+    {
+        "resume_name": "divyansh.pdf",
+        "candidate_name": "Divyansh Dhaundiyal",
+        "skills": [
+            "sql",
+            "c++",
+            "java",
+            "mongodb",
+            "tailwind css",
+            "html",
+            "python",
+            "css",
+            "github",
+            "algorithms",
+            "object-oriented programming",
+            "react",
+            "git",
+            "data structures",
+            "javascript"
+        ],
+        "matching_skills": [
+            "html",
+            "css",
+            "react",
+            "git",
+            "javascript"
+        ],
+        "missing_skills": [
+            "version control",
+            "angular",
+            "agile"
+        ],
+        "skill_match_score": 55.55555555555556,
+        "semantic_score": 17.433712495639934,
+        "final_score": 36.49463402559775,
+        "resume_path": "data/resumes/divyansh.pdf",
+        "contact": {
+            "email": "pedivyanshdec@gmail.com",
+            "phone": "+91-7037937648",
+            "github": null,
+            "linkedin": null
+        },
+        "education": [
+            "BE",
+            "BTECH",
+            "BACHELOR OF TECHNOLOGY"
+        ],
+        "rank": 2
+    },
+    {
+        "resume_name": "kunalOffCampus_React_based.pdf",
+        "candidate_name": "Kunal Waldia",
+        "skills": [
+            "sql",
+            "c++",
+            "java",
+            "mongodb",
+            "html",
+            "python",
+            "css",
+            "github",
+            "algorithms",
+            "react",
+            "git",
+            "data structures",
+            "javascript"
+        ],
+        "matching_skills": [
+            "html",
+            "css",
+            "react",
+            "git",
+            "javascript"
+        ],
+        "missing_skills": [
+            "version control",
+            "angular",
+            "agile"
+        ],
+        "skill_match_score": 55.55555555555556,
+        "semantic_score": 13.56956140164437,
+        "final_score": 34.56255847859996,
+        "resume_path": "data/resumes/kunalOffCampus_React_based.pdf",
+        "contact": {
+            "email": "kunalwaldia81@gmail.com",
+            "phone": "+91-6396708033",
+            "github": null,
+            "linkedin": null
+        },
+        "education": [
+            "BE",
+            "BTECH",
+            "HIGH SCHOOL"
+        ],
+        "rank": 3
+    },
+    {
+        "resume_name": "Kunal_AI_Resume.pdf",
+        "candidate_name": "Kunal Waldia",
+        "skills": [
+            "sql",
+            "c++",
+            "java",
+            "mongodb",
+            "bootstrap",
+            "python",
+            "reactjs",
+            "tailwind css",
+            "css",
+            "github",
+            "algorithms",
+            "object-oriented programming",
+            "react",
+            "git",
+            "data structures",
+            "javascript"
+        ],
+        "matching_skills": [
+            "css",
+            "react",
+            "git",
+            "javascript"
+        ],
+        "missing_skills": [
+            "version control",
+            "angular",
+            "agile",
+            "html"
+        ],
+        "skill_match_score": 44.44444444444444,
+        "semantic_score": 11.495012246792573,
+        "final_score": 27.969728345618506,
+        "resume_path": "data/resumes/Kunal_AI_Resume.pdf",
+        "contact": {
+            "email": "kunalwaldia8@gmail.com",
+            "phone": "6396708033",
+            "github": null,
+            "linkedin": null
+        },
+        "education": [
+            "BE",
+            "BTECH"
+        ],
+        "rank": 4
+    },
+    {
+        "resume_name": "ManojREsume.pdf",
+        "candidate_name": "Professional Experience",
+        "skills": [],
+        "matching_skills": [],
+        "missing_skills": [
+            "angular",
+            "html",
+            "agile",
+            "css",
+            "version control",
+            "react",
+            "git",
+            "javascript"
+        ],
+        "skill_match_score": 0.0,
+        "semantic_score": 9.771699499632149,
+        "final_score": 4.8858497498160744,
+        "resume_path": "data/resumes/ManojREsume.pdf",
+        "contact": {
+            "email": "manojwaldia8@gmail.com",
+            "phone": "7060529456",
+            "github": null,
+            "linkedin": null
+        },
+        "education": null,
+        "rank": 5
+    }
+]

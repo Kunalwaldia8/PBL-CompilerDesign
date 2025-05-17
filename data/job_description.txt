@@ -1,0 +1,33 @@
+We are looking for a talented Frontend Developer to join our team. You will be responsible for developing user-facing features, ensuring high performance, and delivering a seamless user experience across web applications.
+
+Responsibilities:
+
+Develop and maintain web interfaces using HTML, CSS, and JavaScript (React/Vue/Angular).
+
+Collaborate with designers and backend developers to implement responsive and interactive UI.
+
+Optimize applications for maximum speed and scalability.
+
+Ensure cross-browser compatibility and mobile responsiveness.
+
+Troubleshoot and debug frontend issues.
+
+Requirements:
+
+Proficiency in HTML, CSS, JavaScript.
+
+Experience with modern frameworks like React, Vue, or Angular.
+
+Familiarity with version control (Git).
+
+Basic understanding of RESTful APIs.
+
+Attention to detail and strong problem-solving skills.
+
+Preferred:
+
+Experience with frontend testing tools.
+
+Knowledge of UI/UX best practices.
+
+Experience working in Agile teams.

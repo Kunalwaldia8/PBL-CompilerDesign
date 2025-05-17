@@ -128,3 +128,9 @@ vpn
 vue.js
 wireshark
 xgboost
+NextAuth
+Express.js
+C++,
+C + +
+HTML
+MongoDB
