@@ -47,8 +47,6 @@ resume-parser/
 │   ├── ranked_resumes.json        # Detailed ranking results
 │   ├── resume_ranking_report.html # Visual HTML report
 │   └── resume_ranking_summary.csv # Summary of rankings
-├── test/                          # Unit tests
-│   └── ...
 ├── requirements.txt               # Project dependencies
 └── README.md                     # Project documentation
 ```
@@ -71,7 +69,7 @@ resume-parser/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/resume-parser.git
+git clone https://github.com/Kunalwaldia8/PBL-CompilerDesign.git
 cd resume-parser
 ```
 
